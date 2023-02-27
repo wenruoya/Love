@@ -1,0 +1,7 @@
+﻿  源.cpp
+E:\Study\test\C\BB\我的爱心表白\我的爱心表白\源.cpp(52,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+E:\Study\test\C\BB\我的爱心表白\我的爱心表白\源.cpp(90,64): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\Study\test\C\BB\我的爱心表白\我的爱心表白\源.cpp(91,65): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\Study\test\C\BB\我的爱心表白\我的爱心表白\源.cpp(126,69): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\Study\test\C\BB\我的爱心表白\我的爱心表白\源.cpp(127,70): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  我的爱心表白.vcxproj -> E:\Study\test\C\BB\我的爱心表白\x64\Debug\我的爱心表白.exe
